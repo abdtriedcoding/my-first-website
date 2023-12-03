@@ -1,2 +1,1 @@
-# my-first-website
-this is my firstever website..which i made in 2021 in my first semester.
+🌐 First website, first semester of B.Tech CSE - that's me, Abdullah Sidd! 🚀 Check out my coding debut in 2021. Dive into the code and relive the learning moments. Happy coding! 👨‍💻✨ #FirstWebsite #CodingJourney 🚀
